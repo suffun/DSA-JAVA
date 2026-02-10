@@ -38,7 +38,7 @@ public class BubbleSortReverse {
             }
         }
 
-        System.out.println("Sorted Array (Descending):");
+        System.out.println("Sorted Array (in Descending):");
         print(arr);
     }
 }
