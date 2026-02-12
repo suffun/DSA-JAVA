@@ -29,6 +29,5 @@ public class SelectionSort {
         }
 
         print(arr);
-
     }
 }
