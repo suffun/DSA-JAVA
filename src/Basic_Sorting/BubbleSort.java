@@ -24,7 +24,6 @@ public class BubbleSort {
             }
             if(swap==0) break;
         }
-
         print(arr);
 
     }
